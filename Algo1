@@ -1,0 +1,5 @@
+Problem:- Write a program to check if the input is a vowel or consonant
+Step 1:- Store the input
+Step 2:- Check the condition(result = x == "A" || x == "E" || x == "I" || x == "O" || x == "U";)
+Step 3:- if the input is vowel then print a message "It's vowel" othervise print the message " It's Consonanat"
+Step 4:- print the message(result) in console or UI.
